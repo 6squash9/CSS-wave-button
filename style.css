@@ -28,11 +28,11 @@ a {
 }
 
 .wave {
-  /* position: absolute; */
+  position: absolute;
   width: 100%;
   height: 100%;
-  /* top: calc(100% + 22px); */
-  /* left: 0; */
+  top: calc(100% + 22px);
+  left: 0;
   background-color: #00aeff;
   transition: all 1s;
   z-index: -1;
